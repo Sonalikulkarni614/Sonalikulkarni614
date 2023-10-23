@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonali Kulkarni</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right" alt="coding" src="https://th.bing.com/th/id/R.54ec5f2a291f0aa8552c8848a433c794?rik=Al%2fD5Eaf93MGBg&riu=http%3a%2f%2fcdn.lowgif.com%2fmedium%2f9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif&ehk=QG0%2fqYaEOebaw4EM67aibCYXMIrHwDq8AdKZXcVSIBw%3d&risl=&pid=ImgRaw&r=0>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalikulkarni614&label=Profile%20views&color=0e75b6&style=flat" alt="sonalikulkarni614" /> </p>
 
